@@ -4,8 +4,6 @@
 
 > Building scalable, secure, and automated infrastructure. I bridge the gap between complex networking and modern cloud-native workflows.
 
-![Profile Views](https://komarev.com/ghpvc/?username=fresh-joey&color=00d1b2&style=flat-square&label=PROFILE+VIEWS)
-
 ---
 
 ### 📊 Engineering Metrics
