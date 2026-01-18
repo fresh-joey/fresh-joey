@@ -8,9 +8,6 @@
 
 ---
 
-### 🛡 Certification & Expertise
-![AWS Certified](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-
 ### 📊 Engineering Metrics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fresh-joey&show_icons=true&theme=transparent&hide_border=true&title_color=00d1b2&icon_color=00d1b2&text_color=777" alt="Joseph's Stats" width="48%" />
