@@ -28,9 +28,9 @@
 ---
 
 ### 🚀 Current Focus
-- 🔭 **Professional Work:** Streamlining AWS infrastructure using **Terraform** and automating server configurations with **Ansible**.
+- 🔭 **Professional Work:** Cloud Infrastructure, CI/CD Automation, Containerization, and Linux Server Administration.
 - 🌱 **Learning Path:** Advancing into Kubernetes (K8s) and automated Security testing (DevSecOps).
-- 💬 **Ask me about:** AWS architecture, Linux troubleshooting, or why I love "fresh-joey" as a handle.
+- 💬 **Ask me about:** AWS architecture, Linux, Automation or why I love "fresh-joey" as a handle.
 
 ---
 
@@ -38,7 +38,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-emmanuel-tech)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josephemmanuel053@gmail.com)
 
-*You can also find my containerized projects on [Docker Hub](https://hub.docker.com/u/fresh-joey).*
+*You can also find my containerized projects on [Docker Hub](https://hub.docker.com/u/freshjoey).*
 <!---
 fresh-joey/fresh-joey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
